@@ -1,3 +1,3 @@
 # XML-Comparator
 
-This compares two xml files and highlight the differences 
+This program compares two xml files and highlight the differences 
